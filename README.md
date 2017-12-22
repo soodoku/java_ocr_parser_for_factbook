@@ -1,2 +1,5 @@
-# java_ocr_parser_for_factbook
-Java OCR and Parser for Warren's TV and Cable Factbook (From 2013)
+## OCR and Parse Warren's TV and Cable Factbook
+
+The [java scripts](src/) are from **2013.**
+
+[Sample input](factbook_sample.pdf) and [output](factbook_out.csv).
