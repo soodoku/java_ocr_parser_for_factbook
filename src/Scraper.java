@@ -25,7 +25,7 @@ public class Scraper {
 
 		FileInputStream fis;
 		try {
-			fis = new FileInputStream("Pages+from+factbook_2_1-2.pdf");
+			fis = new FileInputStream("factbook_sample.pdf");
 
 			// BufferedWriter writer = new BufferedWriter(new FileWriter(
 			// "pdf_change.txt"));
